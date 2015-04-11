@@ -1,0 +1,1 @@
+Dominik Hrabík, práce na wap a si, Tøída pro matematické operace a následné vypsání historie.
